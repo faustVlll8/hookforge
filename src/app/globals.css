@@ -22,3 +22,19 @@ body {
   color: var(--color-text-primary);
   font-family: var(--font-sans);
 }
+
+:root {
+  --background: #0A0A0B;
+  --surface: #111113;
+  --accent: #3B82F6;
+  --text-primary: #FAFAFA;
+  --text-secondary: #A1A1AA; /* уже хорошо, но можно сделать чуть ярче при необходимости */
+}
+
+/* Better focus states for accessibility */
+a:focus-visible,
+button:focus-visible {
+  outline: 2px solid #3B82F6;
+  outline-offset: 2px;
+  border-radius: 0.5rem;
+}
