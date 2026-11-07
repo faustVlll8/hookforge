@@ -43,7 +43,7 @@ export default function Pricing() {
             Simple pricing
           </h2>
           <p className="mt-4 text-text-secondary">
-            Start free. Upgrade when you’re ready. Cancel anytime.
+            Cancel anytime · 7-day money-back guarantee
           </p>
 
           {/* Toggle */}
