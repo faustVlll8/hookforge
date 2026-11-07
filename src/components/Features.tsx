@@ -4,20 +4,17 @@ const features = [
   {
     icon: Sparkles,
     title: "Hook Generator",
-    description:
-      "10+ proven frameworks that stop the scroll. Turn any topic into strong opening lines in seconds.",
+    description: "10+ proven frameworks that stop the scroll.",
   },
   {
     icon: Layers,
     title: "Content Packs",
-    description:
-      "Ready-to-post versions for X, LinkedIn, Instagram and ads. One idea — full pack for every platform.",
+    description: "Ready-to-post versions for X, LinkedIn, Instagram and ads.",
   },
   {
     icon: BarChart3,
     title: "Variation Lab",
-    description:
-      "Instant A/B versions so you can test what works. Control tone, angle and length with one click.",
+    description: "Instant A/B versions so you can test what works.",
   },
 ];
 
